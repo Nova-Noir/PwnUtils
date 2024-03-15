@@ -1,6 +1,9 @@
 # PwnUtils
 A collection of useful pwn scripts in one.
 
+## WARNING
+## This Repo has been deprecated and you should use [PwNo](https://github.com/MuelNova/PwNo) instead!
+
 ## Why
 很多比赛中用到的东西都是重复且复杂的，将这些整合为一个方便的工具箱。
 
